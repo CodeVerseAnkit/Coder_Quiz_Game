@@ -58,7 +58,9 @@ Basic Loops & Conditional Statements
 
 ---
 
-Main Menu: 
+> Main Menu
+
+
 
 <--------------- CODER QUIZ GAME --------------->
 
@@ -73,6 +75,7 @@ Main Menu:
                      —————————————
 
    4.About                             5.Exit
+
 
    
 ---
