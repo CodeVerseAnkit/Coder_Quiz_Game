@@ -77,6 +77,10 @@ Basic Loops & Conditional Statements
    4.About                             5.Exit
 
 
+Screenshort :-
+
+https://github.com/CodeVerseAnkit/Coder_Quiz_Game/blob/main/Example.jpg
+
    
 ---
 
